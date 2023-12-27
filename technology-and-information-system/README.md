@@ -27,16 +27,16 @@ This course will introduce students to information systems and technology (IS/IT
 ### Design Thinking Assignment
 Design thinking is a process of critical thinking used to develop solutions to problems through collaboration, innovation and design.
 Design thinking includes 5 phases which is empathy, define, ideate, prototype and testing.
-This assignent includes a report, a video, and a presentation
+This assignent includes a [report](https://github.com/Yuylam/semester-1/blob/9eaad8828eeec9e7fc9ab0ae54e49b61875744d7/technology-and-information-system/Assignment%20Design%20Thinking%20Report%20Group%203.pdf), a video, and a [presentation](https://github.com/Yuylam/semester-1/blob/9eaad8828eeec9e7fc9ab0ae54e49b61875744d7/technology-and-information-system/Assignment%20Design%20Thinking%20Presentation%20Group%203.pdf)
 
-### Assignment 1 ([Poster](https://github.com/Yuylam/semester-1/blob/0081d8ac95d1809adb2dbda499aa03bcf91a78d7/technology-and-information-system/Assignment%20Poster%20LAM%20YOKE%20YU%20A23CS0233.pdf))
+### Assignment 1 [Poster](https://github.com/Yuylam/semester-1/blob/0081d8ac95d1809adb2dbda499aa03bcf91a78d7/technology-and-information-system/Assignment%20Poster%20LAM%20YOKE%20YU%20A23CS0233.pdf)
 We need to create an academic poster based on the 2 industry talks on 23rd and 28th of October
 
-### Assignment 2 ([Newsletter](https://github.com/Yuylam/semester-1/blob/60248554f6324080727da10e5f58eaf262ec84da/technology-and-information-system/Assignment%20Newsletter%20Group%203.pdf))
+### Assignment 2 [Newsletter](https://github.com/Yuylam/semester-1/blob/60248554f6324080727da10e5f58eaf262ec84da/technology-and-information-system/Assignment%20Newsletter%20Group%203.pdf)
 We need to create a newsletter based on the industry visit on 17th November
 
-### Assignment 3 (Video)
+### Assignment 3 Video
 We need to create a video based on the industry talk and visit to UTM Digital
 
-### Assignment 4 (e-portfolio)
+### Assignment 4 e-portfolio
 We would need to build our profile and e-portfolio on github
