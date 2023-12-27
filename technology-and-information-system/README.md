@@ -19,6 +19,10 @@ This course will introduce students to information systems and technology (IS/IT
 - 13th December: Industry visit to UTM Digital
 - 28th December: Virtual industry talk about System Development@Credence
 
+## PC Assemble
+<img src="https://github.com/Yuylam/semester-1/assets/147635499/266bced7-679d-4603-aba3-4da189408bff" alt="pc-assemble-1" width="256"/>
+<img src="https://github.com/Yuylam/semester-1/assets/147635499/f03d6256-ad66-41e7-8b0e-7fa963cc0286" alt="pc-assemble-2" width="256"/>
+
 ## Assignments
 ### Design Thinking Assignment
 Design thinking is a process of critical thinking used to develop solutions to problems through collaboration, innovation and design.
