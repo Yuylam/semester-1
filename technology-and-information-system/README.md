@@ -29,7 +29,7 @@ Design thinking is a process of critical thinking used to develop solutions to p
 Design thinking includes 5 phases which is empathy, define, ideate, prototype and testing.
 This assignent includes a report, a video, and a presentation
 
-### Assignment 1 (Poster)
+### Assignment 1 ([Poster](https://github.com/Yuylam/semester-1/blob/0081d8ac95d1809adb2dbda499aa03bcf91a78d7/technology-and-information-system/Assignment%20Poster%20LAM%20YOKE%20YU%20A23CS0233.pdf)
 We need to create an academic poster based on the 2 industry talks on 23rd and 28th of October
 
 ### Assignment 2 (Newsletter)
