@@ -30,3 +30,7 @@ Build the C++ program based on the flowchart created in Assignment 1.
 ### Exercise 3
 - Practice on [functions](https://github.com/Yuylam/semester-1/blob/e9dcfcebc4da5363b4a3f7d7f6d92f8acaeaea12/programming-techniques-1/Exercise%203%20LAM%20YOKE%20YU.cpp)
 - Write a complete C++ program that helps the Ministry of Health (MOH) to determine the status of a zone by calculating the number of active cases for COVID 19.
+
+### Exercise 4
+- Practice on [arrays and files](https://github.com/Yuylam/semester-1/blob/fb9c2017b994b064598d63cfe1caf2e2da9ac019/programming-techniques-1/Exercise%204%20LAM%20YOKE%20YU.cpp)
+- Write a complete C++ program that reads in a list of temperature(F) data from a text file, calculate the respective temperature in degree Celsius and finally prints a summary output on and screen and a detailed output into a file.
