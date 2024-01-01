@@ -15,7 +15,7 @@ In this course, we are going to learn C++ programming language and develop progr
 
 ## Assignments
 ### Assignment 1
-Analyse problem and design its solution using a flowchart
+Analyse problem and design its solution using a [flowchart](https://github.com/Yuylam/semester-1/blob/6bb359be888c374f23b2671ea579c3059f7c11ef/programming-techniques-1/Assignment%201%20GOE%20JIE%20YING%20LAM%20YOKE%20YU.pdf)
 1. BMR calculator
 2. Car loan calculator
 
