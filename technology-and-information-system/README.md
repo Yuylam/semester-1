@@ -35,7 +35,7 @@ We need to create an academic poster based on the 2 industry talks on 23rd and 2
 ### Assignment 2 [Newsletter](https://github.com/Yuylam/semester-1/blob/60248554f6324080727da10e5f58eaf262ec84da/technology-and-information-system/Assignment%20Newsletter%20Group%203.pdf)
 We need to create a newsletter based on the industry visit on 17th November
 
-### Assignment 3 Video
+### Assignment 3 [Video](https://youtu.be/txiz29MHVzg?si=2mJ6UGrwg38vUU60)
 We need to create a video based on the industry talk and visit to UTM Digital
 
 ### Assignment 4 e-portfolio
