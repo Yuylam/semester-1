@@ -38,5 +38,9 @@ We need to create a newsletter based on the industry visit on 17th November
 ### Assignment 3 [Video](https://youtu.be/txiz29MHVzg?si=2mJ6UGrwg38vUU60)
 We need to create a video based on the industry talk and visit to UTM Digital
 
-### Assignment 4 e-portfolio
+### Assignment 4 [Report](https://github.com/Yuylam/semester-1/blob/65ab199956ff08c15a22064fe95372dce07adb05/technology-and-information-system/Academic%20Report%20Group%203.pdf)
+We need to write an academic report based on the industry talk on 28th December
+
+### E-portfolio
 We would need to build our profile and e-portfolio on github
+[GitHub](https://github.com/Yuylam) | [LinkedIn](https://www.linkedin.com/in/yuylam/) | [Website](https://yuylam.github.io/)
