@@ -42,5 +42,5 @@ We need to create a video based on the industry talk and visit to UTM Digital
 We need to write an academic report based on the industry talk on 28th December
 
 ### E-portfolio
-We would need to build our profile and e-portfolio on github
+We would need to build our profile and e-portfolio  
 [GitHub](https://github.com/Yuylam) | [LinkedIn](https://www.linkedin.com/in/yuylam/) | [Website](https://yuylam.github.io/)
