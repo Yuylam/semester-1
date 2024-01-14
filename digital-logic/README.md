@@ -21,3 +21,7 @@ This course introduces digital electronics and overview of many concepts, compon
 ### Lab 2: Combinational Logic Circuit Design Simulation
 - Produce digital logic circuit, generating truth table and Timing Diagram with Deeds Simulator
 <img width="597" alt="image" src="https://github.com/Yuylam/semester-1/assets/147635499/9ab5d0be-1759-45ce-85b7-d7eaec1481a4">
+
+### Lab 3: Synchronous Digital Counter
+- Construct synchornous counter circuit using flip-flops and basic gates
+<img width="500" alt="image" src="https://github.com/Yuylam/semester-1/assets/147635499/17f3ed82-a28b-44bc-8e2d-18a68eb3da5d">
