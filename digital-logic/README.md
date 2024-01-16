@@ -1,6 +1,10 @@
 # Digital Logic
 This course introduces digital electronics and overview of many concepts, components, and tools. We will learn about digital fundamentals-from basic concepts to programmable logic devices.
 
+- [Course content](#course-content)
+- [Lab Exercises](#lab-exercises)
+- [Reflection](#reflection)
+
 ## Course content
 - Digital Logic Overview
 - Number Systems and Codes
@@ -25,3 +29,7 @@ This course introduces digital electronics and overview of many concepts, compon
 ### Lab 3: Synchronous Digital Counter
 - Construct synchornous counter circuit using flip-flops and basic gates
 <img width="500" alt="image" src="https://github.com/Yuylam/semester-1/assets/147635499/17f3ed82-a28b-44bc-8e2d-18a68eb3da5d">
+
+## Reflection
+I really enjoy this subject, dealing with the circuits are so much fun. The simple basic gates can be combined to create various amazing stuffs such as adders, comparators, decoders, encoders, counters and so much more. I would be happy to explore more about the workings behind these integrated circuits.   
+I am especially impressed by the invention of lateches and flip-flops. The design of feedback of the output to the input, enables them to store memory, laying the foundation for the computers we have today! 
