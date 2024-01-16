@@ -32,4 +32,5 @@ This course introduces digital electronics and overview of many concepts, compon
 
 ## Reflection
 I really enjoy this subject, dealing with the circuits are so much fun. The simple basic gates can be combined to create various amazing stuffs such as adders, comparators, decoders, encoders, counters and so much more. I would be happy to explore more about the workings behind these integrated circuits.   
+
 I am especially impressed by the invention of lateches and flip-flops. The design of feedback of the output to the input, enables them to store memory, laying the foundation for the computers we have today! 
