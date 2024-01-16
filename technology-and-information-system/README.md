@@ -1,5 +1,11 @@
 # Technology and Information System
-This course will introduce students to information systems and technology (IS/IT) encompassing hardware, software, network and communications and its uses at home and work. Students will gain basic skills in handling PC installation and productivity tools. Industry visits and talks will be conducted to expose students to a real working environment and get knowledge from the industry. Students need to briefly explore the requirements and job specifications for a career in IT
+This course will introduce students to information systems and technology (IS/IT) encompassing hardware, software, network and communications and its uses at home and work. Students will gain basic skills in handling PC installation and productivity tools. Industry visits and talks will be conducted to expose students to a real working environment and get knowledge from the industry. Students need to briefly explore the requirements and job specifications for a career in IT.
+
+- [Course content](#course-content)
+- [Industry Visits and Talk](#industry-visits-and-talk)
+- [PC Assemble](#pc-assemble)
+- [Assignments](#assignments)
+- [Reflection](#reflection)
 
 ## Course content
 - Hardware
@@ -44,3 +50,8 @@ We need to write an academic report based on the industry talk on 28th December
 ### E-portfolio
 We would need to build our profile and e-portfolio  
 [GitHub](https://github.com/Yuylam) | [LinkedIn](https://www.linkedin.com/in/yuylam/) | [Website](https://yuylam.github.io/)
+
+## Reflection
+While the course content leans towards the theoretical side, which initially a tiny bit boring for me, I was delighted to be exposed to various fields and things in the world of computing, when I carefully study the course materials. 
+
+What particularly excites me are the talks and visits organized as part of the course. These experiences provide invaluable insights into the practical applications of the theoretical concepts we study. They not only help us envision our future in the field but also offer the opportunity to better prepare ourselves for the dynamic and evolving landscape of technology.
