@@ -39,5 +39,7 @@ Build the C++ program based on the flowchart created in Assignment 1.
 - Practice on [arrays and files](https://github.com/Yuylam/semester-1/blob/fb9c2017b994b064598d63cfe1caf2e2da9ac019/programming-techniques-1/Exercise%204%20LAM%20YOKE%20YU.cpp)
 - Write a complete C++ program that reads in a list of temperature(F) data from a text file, calculate the respective temperature in degree Celsius and finally prints a summary output on and screen and a detailed output into a file.
 
+### [Case Study](https://github.com/Yuylam/pt1-case-study)
+
 ## Reflection
 I great joy in the programming process. Producing a program that can help to simplify work is so much fun. Beyond the assignments we tackle in class, , I've also wrote some programs for stuffs that interest me. Some of these projects are housed in the random-projects repository, while others may not be—feel free to check them out! 
