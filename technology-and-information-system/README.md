@@ -32,19 +32,19 @@ This course will introduce students to information systems and technology (IS/IT
 ## Assignments
 ### Design Thinking Assignment
 Design thinking is a process of critical thinking used to develop solutions to problems through collaboration, innovation and design.
-Design thinking includes 5 phases which is empathy, define, ideate, [prototype](https://github.com/Yuylam/semester-1/blob/ac9e7f56fb3204b0ebee5d5d47a1652124f624d9/technology-and-information-system/Assignment%20Design%20Thinking%20Prototype%20Demonstration.pptx) and testing.
-This assignent includes a [report](https://github.com/Yuylam/semester-1/blob/9eaad8828eeec9e7fc9ab0ae54e49b61875744d7/technology-and-information-system/Assignment%20Design%20Thinking%20Report%20Group%203.pdf), a [video](https://youtu.be/aC9fndUbcFg?si=TT2CHZ5O603FMhL0), and a [presentation](https://github.com/Yuylam/semester-1/blob/9eaad8828eeec9e7fc9ab0ae54e49b61875744d7/technology-and-information-system/Assignment%20Design%20Thinking%20Presentation%20Group%203.pdf)
+Design thinking includes 5 phases which is empathy, define, ideate, [prototype](https://github.com/Yuylam/semester-1/blob/main/technology-and-information-system/Assignment%20Design%20Thinking%20Prototype%20Demonstration.pptx) and testing.
+This assignent includes a [report](https://github.com/Yuylam/semester-1/blob/main/technology-and-information-system/Assignment%20Design%20Thinking%20Report%20Group%203.pdf), a [video](https://youtu.be/aC9fndUbcFg?si=TT2CHZ5O603FMhL0), and a [presentation](https://github.com/Yuylam/semester-1/blob/main/technology-and-information-system/Assignment%20Design%20Thinking%20Presentation%20Group%203.pdf)
 
-### Assignment 1 [Poster](https://github.com/Yuylam/semester-1/blob/0081d8ac95d1809adb2dbda499aa03bcf91a78d7/technology-and-information-system/Assignment%20Poster%20LAM%20YOKE%20YU%20A23CS0233.pdf)
+### Assignment 1 [Poster](https://github.com/Yuylam/semester-1/blob/main/technology-and-information-system/Assignment%20Poster%20LAM%20YOKE%20YU%20A23CS0233.pdf)
 We need to create an academic poster based on the 2 industry talks on 23rd and 28th of October
 
-### Assignment 2 [Newsletter](https://github.com/Yuylam/semester-1/blob/60248554f6324080727da10e5f58eaf262ec84da/technology-and-information-system/Assignment%20Newsletter%20Group%203.pdf)
+### Assignment 2 [Newsletter](https://github.com/Yuylam/semester-1/blob/main/technology-and-information-system/Assignment%20Newsletter%20Group%203.pdf)
 We need to create a newsletter based on the industry visit on 17th November
 
 ### Assignment 3 [Video](https://youtu.be/txiz29MHVzg?si=2mJ6UGrwg38vUU60)
 We need to create a video based on the industry talk and visit to UTM Digital
 
-### Assignment 4 [Report](https://github.com/Yuylam/semester-1/blob/65ab199956ff08c15a22064fe95372dce07adb05/technology-and-information-system/Academic%20Report%20Group%203.pdf)
+### Assignment 4 [Report](https://github.com/Yuylam/semester-1/blob/main/technology-and-information-system/Academic%20Report%20Group%203.pdf)
 We need to write an academic report based on the industry talk on 28th December
 
 ### E-portfolio
